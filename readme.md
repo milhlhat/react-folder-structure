@@ -28,3 +28,5 @@
     5. `helper.ts`: file xử lý logic, khai báo constant của module
     6. `index.scss` file style nếu dùng css. ưu tiên dùng styled-component cho đỡ bị over-write css module khác
     7. `<Component>Provider.tsx` : file contextApi, ví dụ `ProductProvider.tsx`
+
+!!! Nếu có file nào không biết đăt ở đâu thì post lên channel `fe-dev` hỏi hoặc hỏi Nhật
